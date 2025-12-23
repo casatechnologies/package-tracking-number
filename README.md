@@ -1,3 +1,5 @@
+*This repository is forked from https://github.com/rjbrooksjr/ts-tracking-number.*
+
 # TS Tracking Number
 This package will validate individual tracking numbers or search for valid tracking numbers within given text. It is based off the specifcations in the [jkeen/tracking_number_data](https://github.com/jkeen/tracking_number_data) repository.
 
