@@ -1,6 +1,6 @@
 {
-  "name": "ts-tracking-number",
-  "version": "1.0.17",
+  "name": "casa-package-tracking-number",
+  "version": "1.0.0",
   "description": "Detect and validate tracking numbers for USPS, UPS, FedEx, and other major couriers.",
   "keywords": [
     "tracking number",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rjbrooksjr/ts-tracking-number.git"
+    "url": "git+https://github.com/casatechnologies/casa-package-tracking-number.git"
   },
   "author": {
     "name": "Rich Brooks",
@@ -35,20 +35,20 @@
   },
   "homepage": "https://github.com/rjbrooksjr/ts-tracking-number#readme",
   "devDependencies": {
-    "@types/chai": "^4.2.12",
-    "@types/mocha": "^8.0.3",
-    "@types/ramda": "^0.27.11",
-    "@typescript-eslint/eslint-plugin": "^3.7.0",
-    "@typescript-eslint/parser": "^3.7.0",
-    "chai": "^4.2.0",
-    "eslint": "^7.5.0",
-    "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-functional": "^3.0.1",
-    "eslint-plugin-import": "^2.22.0",
-    "mocha": "^8.1.2",
-    "prettier": "^2.0.5",
-    "ts-node": "^8.10.2",
-    "typescript": "^3.9.7"
+    "@types/chai": "^4.3.0",
+    "@types/mocha": "^10.0.0",
+    "@types/ramda": "0.27.44",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "chai": "^4.3.0",
+    "eslint": "^8.0.0",
+    "eslint-config-prettier": "^8.0.0",
+    "eslint-plugin-functional": "^6.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "mocha": "^10.8.2",
+    "prettier": "^2.8.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
   },
   "dependencies": {
     "ramda": "^0.27.0"
